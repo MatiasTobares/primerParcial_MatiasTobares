@@ -1,0 +1,6 @@
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe.config
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.pdb
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.exe
+C:\Users\Roberto\Desktop\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.pdb
